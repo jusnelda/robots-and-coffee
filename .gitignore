@@ -1,0 +1,11 @@
+CMakeLists.txt.user
+*build*
+*install*
+*.autosave
+*.sw*
+*.swp*
+.clangcomplete
+*~
+.notebooks
+*.pyc
+doc/*
