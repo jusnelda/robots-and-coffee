@@ -21,6 +21,6 @@ Plugin manager just make it so much easier to install plugins, the most common o
 3. Airline  and Airline themes  
 "Lean & mean status/tabline for vim that's light as air"  
 [Airline](https://github.com/vim-airline/vim-airline)  
-[Themes] (https://github.com/vim-airline/vim-airline-themes)  
+[AirlineThemes](https://github.com/vim-airline/vim-airline-themes)  
 
 

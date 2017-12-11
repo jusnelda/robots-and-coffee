@@ -19,7 +19,7 @@ You will find your `.vimrc` either in your home directory (open a shell and type
 
   * If you don't have on yet:  
     1. You can either just copy mine into your home directory, maybe even download all the [plugins](vim_plugins.md) I have too and go ahead and start figuring out how vim works - or  
-    2. You copy the [minimalist version](minimalist/.vimrc) without any plugins, themes or fancy stuff and use this as a solid base to improve upon - or  
+    2. You copy the [minimalist version](minimal/.vimrc) without any plugins, themes or fancy stuff and use this as a solid base to improve upon - or  
     3. You start writing your very own `.vimrc` from the very beginning using my suggestions only as an inspiration  
 
   * If you already have a `.vimrc` file, make sure you understand what **all** of this means and force yourself to write comments to every configuration. If you don't know or aren't sure, delete the line in question or start googleing right know. - Thank me later.  

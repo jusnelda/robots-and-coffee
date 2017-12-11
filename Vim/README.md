@@ -29,3 +29,8 @@ To customize vim the way you want it to, check out the [vimrc guide](vimrc.md)
 
 Alright, that is it so far! Have fun using vim! 
 
+
+
+
+### Thanks  
+Special thanks to the one who made me use vim. 
