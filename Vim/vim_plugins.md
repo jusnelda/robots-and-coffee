@@ -23,4 +23,4 @@ Plugin manager just make it so much easier to install plugins, the most common o
 [Airline](https://github.com/vim-airline/vim-airline)  
 [AirlineThemes](https://github.com/vim-airline/vim-airline-themes)  
 
-
+4. [Vim Latex](http://vim-latex.sourceforge.net/)

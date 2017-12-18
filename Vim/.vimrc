@@ -43,6 +43,7 @@ set history=500
 syntax enable 
 " Enable showing of whitespace
 set list
+set listchars=trail:-
 
 " Colorschemes stored in .vim/colors
 colorscheme afterglow
