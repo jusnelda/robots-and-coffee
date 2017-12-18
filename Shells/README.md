@@ -5,7 +5,7 @@ All About Shells
 A shell is just another word for: Command line, Terminal, Console, cmd, etc...  
 There are various ways to open a shell, a basic linux system usually comes with 3 - 5 different "viewers", e.g. 'Konsole', 'Terminal', 'XTerm', 'Mate Terminal', 'LXTerminal', 'XfceTerminal', 'Terminator' - to name just a few.   
 On Mac you'll find your 'Terminal' and on Windows it's 'cmd' or if you're lucky 'Powershell' (Unfortunately I barely have experience with Windows shells, but I'll include it over time).  
-Most of the commands you'll find in the [Cheatsheet](bash_cheatsheet) will work on Mac, sometimes they differ a little bit, but a quick search will reveal the right command.  
+Most of the commands you'll find in the [Cheatsheet](bash_cheatsheet.md) will work on Mac, sometimes they differ a little bit, but a quick search will reveal the right command.  
 If you choose to use **ZSH** than all of the commands are the same, except for the package manager ([APT](https://en.wikipedia.org/wiki/APT_(Debian)) on Debian Linux(Ubuntu), Thirdparty [Homebrew](https://brew.sh/) for macOS). 
 
 ### Bash
