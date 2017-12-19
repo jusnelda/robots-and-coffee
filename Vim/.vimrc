@@ -120,6 +120,7 @@ set scrolloff=3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "let g:vim_markdown_folding_disabled = 0
 set conceallevel=2
+" Vim sometimes has trouble identifying a markdown file, this helps
 autocmd BufNewFile,BufRead *.md set filetype=markdown
 " Open markdown files with firefox
 autocmd BufEnter *.md noremap <F5> :exe ':silent !firefox %'<CR>
@@ -135,7 +136,7 @@ let g:indentLine_conceallevel = 1
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" LaTeX
+" LaTeX - if you don't know what LaTeX is (yet), delete this part.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " IMPORTANT: grep will sometimes skip displaying the file name if you
 " " search in a singe file. This will confuse Latex-Suite. Set your grep

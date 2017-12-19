@@ -1,6 +1,10 @@
 
 Bash Cheatsheet
 ===============
+### Tab Key  
+The most important Key on your keyboard is `Tab`, it will always be your friend and save you time and thinking too hard.  
+What it does: It completes your commands! It even does it inside vim commands like `:tabe /../<filename>`  
+
 
 To see what shell your in type `echo $SHELL`.  
 

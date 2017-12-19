@@ -27,10 +27,16 @@ If this is your first time using vim you should really start with the **vimtutor
 I created a cheatsheet, because in the beginning it is really hard to remember all the commands, you can find that [here](vim_cheatsheet.md)  
 To customize vim the way you want it to, check out the [vimrc guide](vimrc.md)  
 
+
+### Peculiarities  
+* Vim **.swp** files:  
+  Vim can be very strict and kind of yells at you if you try to edit a file that you already opened somewhere else. If you think you're smarter just press `E`(Edit anyway) or if you're not sure press `A`(Abort). Check if the file in fact is open. If it isn't: you can simply delete it with `rm .<your-filename>`. If Vim was right, it will just delete the swap file, once you closed the file in question.  
+
+
+
+
+
 Alright, that is it so far! Have fun using vim! 
-
-
-
 
 ### Thanks  
 Special thanks to the one who made me use vim. 
