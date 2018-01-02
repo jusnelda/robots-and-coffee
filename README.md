@@ -8,6 +8,7 @@ All of the tutorials, cheatsheets and tipps and tricks are mostly for Linux Syst
 
 * You can find information about shells/terminal/console [here](Shells)  
 * Vim Editor Fun can be found [here](Vim)  
+* LaTeX Templates [here](Latex)  
 
 ![Coffee](https://imgs.xkcd.com/comics/coffee.png)
 
