@@ -122,7 +122,9 @@ set scrolloff=3
 set conceallevel=2
 " Vim sometimes has trouble identifying a markdown file, this helps
 autocmd BufNewFile,BufRead *.md set filetype=markdown
-" Open markdown files with firefox
+" Open markdown files with firefox, this only works if you have a plugin
+" installed in firefox, that can show markdown files
+" https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer/
 autocmd BufEnter *.md noremap <F5> :exe ':silent !firefox %'<CR>
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
