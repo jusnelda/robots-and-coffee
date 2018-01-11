@@ -30,6 +30,8 @@ Delete a <*file*> | `rm <file>`
 Move or rename <*directory*> or <*file*> | `mv <file> <newfile>`
 Show a <*file*> | `cat <file>`
 Show command history | `cat ~/.bash_history`
+Move to the beginning of the command | `Ctrl+A`
+Move to the end of the command | `Ctrl+E`
 
 
 ### General - Editing a File  
@@ -47,7 +49,7 @@ Save and exit | `Ctrl+X`
 
 What it does | Command
 ---------------------------------------------------------------------------------------------|----------------------
-Lets you change the read, write, and execute [permissions](../good_to_know.md) on your files | chmod -options <file>
+Lets you change the read, write, and execute [permissions](https://www.linux.com/learn/understanding-linux-file-permissions) on your files | chmod -options <file>
 Compares two files | `diff <file1> <file2>`
 Compares two files and displays them side-by-side | `sdiff <file1> <file2>`
 Compress <*file*> | `gzip <filename>`
