@@ -9,7 +9,7 @@
 set history=500
 
 " Enable syntax highlighting
-syntax enable 
+syntax enable
 
 " Ignore case when searching
 set ignorecase

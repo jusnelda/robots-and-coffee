@@ -17,7 +17,7 @@ execute pathogen#infect()
 let g:airline_theme = 'tomorrow'
 " disable extension loading
 let g:airline#extensions#disable_rtp_load = 1
-" Configure the layout of the sections 
+" Configure the layout of the sections
 let g:airline#extensions#default#layout = [
       \ [ 'a', 'b', 'c'  ],
       \ [ 'x', 'y', 'z'  ]
@@ -40,7 +40,7 @@ set history=500
 "let mapleader = "/"
 
 " Enable syntax highlighting
-syntax enable 
+syntax enable
 " Enable showing of whitespace
 set list
 set listchars=trail:-
@@ -82,7 +82,7 @@ set shiftwidth=2
 " Use spaces instead of tabs
 set expandtab
 set tabstop=2
-" Be smart when using tabs 
+" Be smart when using tabs
 set smarttab
 
 " Colored column at 90 to avoid going to far to the right
@@ -94,8 +94,9 @@ set autoindent "Auto indent
 filetype plugin indent on " This should be enough for indentation
 " Don't use smartindent, it is an old script. Most languages have either
 " specific indentation function or use cindent with specific options
-
-set wrap "Wrap lines
+"
+"Wrap lines
+set wrap
 
 " Enable line numbers
 set number
