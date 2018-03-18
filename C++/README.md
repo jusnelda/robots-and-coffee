@@ -24,7 +24,6 @@ $ make
 ```
 CMake has a lot to do with **dependencies** once you include third-party libraries such as OpenCV. 
 CMake will probably complain that it can't find the necessary libraries and/or the compiler yells at you. 
-See [dependencies](dependencies.md) for information on how it works at RMC.  
 
 ### Example Project
 [robot](robot/) is a very basic programm which prints some ascii art to the console. It's supposed to serve as a example.  

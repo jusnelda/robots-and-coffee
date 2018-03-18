@@ -1,4 +1,4 @@
-# This is a CMakeLists template by Justine Probst 
+# This is a CMakeLists template
 
 # CMake version and project name
 cmake_minimum_required(VERSION 3.5.1)
