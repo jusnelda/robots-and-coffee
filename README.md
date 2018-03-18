@@ -9,6 +9,7 @@ All of the tutorials, cheatsheets and tipps and tricks are mostly for Linux Syst
 * You can find information about shells/terminal/console [here](Shells)  
 * Vim Editor Fun can be found [here](Vim)  
 * LaTeX Templates [here](Latex)  
+* C++ Template and CMake Template [here](C++)
 
 ![Coffee](https://imgs.xkcd.com/comics/coffee.png)
 
@@ -29,8 +30,8 @@ Just add up the numbers to get types of permissions:
 6 = 4 + 2 -> read/write  
 7 = 4 + 2 + 1 -> read/write/execute  
 
-```
-chmod 666 mydoc.txt //read/write by anybody  
-chmod 755 mydoc.txt //rwx for owner, rx for group rx for the world  
-chmod 777 mydox.txt //read, write, execute for all!
+```bash
+$ chmod 666 mydoc.txt #read/write by anybody  
+$ chmod 755 mydoc.txt #rwx for owner, rx for group rx for the world  
+$ chmod 777 mydox.txt #read, write, execute for all!
 ```

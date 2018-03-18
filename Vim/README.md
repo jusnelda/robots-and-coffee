@@ -17,9 +17,9 @@ On most systems vim is already installed, you can check that by `vim --version` 
 Follow [these](http://www.vim.org/download.php/) instructions to install.
 Short version for Unix (There is a special MacVim for Mac-OS)
 ``` bash
-git clone https://github.com/vim/vim.git
-cd vim/src
-make
+$ git clone https://github.com/vim/vim.git
+$ cd vim/src
+$ make
 ```
 
 ### Using VIM

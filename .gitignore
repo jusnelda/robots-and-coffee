@@ -9,3 +9,7 @@ CMakeLists.txt.user
 .notebooks
 *.pyc
 doc/*
+*.aux
+*.log
+synctex.gz
+*.toc
